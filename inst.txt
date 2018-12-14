@@ -1,0 +1,18 @@
+-----------------------------------------------------------------
+			WELCOME TO GALAGA
+
+USE 'A' TO MOVE LEFT BY ONE SPACE
+USE 'D' TO MOVE RIGHT BY ONE SPACE
+
+PRESS SPACEBAR TO SHOOT
+
+HITTING AN 'O' GETS YOU 1 POINT
+HITTING A 'X GETS YOU 2 POINTS
+
+BUT REMEMBER 
+IF AN 'X' HITS YOU THE GAME IS OVER
+
+SCORE HIGH TO GET YOUR NAME ON THE HIGH SCORE LIST
+
+GOOD LUCK!
+-----------------------------------------------------------------
